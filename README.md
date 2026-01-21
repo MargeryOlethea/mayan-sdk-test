@@ -37,7 +37,7 @@ Create a .env file in the project root with the following example values:
 
 ```env
 SOLANA_RPC_ENDPOINT=https://api.mainnet-beta.solana.com
-SOLANA_API_KEY=your_solana_api_key_here
+SOLANA_PRIVATE_KEY=your_solana_private_key_here
 ```
 
 ## Dependencies
